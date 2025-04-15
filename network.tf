@@ -3,7 +3,7 @@ resource "aws_vpc" "minha_vpc" {
   instance_tenancy = "default"
 
   tags = {
-    Name = "tf-vpc-luciano-teste"
+    Name = "tf-vpc-lucianoteste"
   }
 }
 
